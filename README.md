@@ -4,3 +4,4 @@ Monday, 16 Feb was about Git Version Control systems
 today we trying git clone command
 Try pushing to repo
 pull command
+git fetch --all
