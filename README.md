@@ -2,3 +2,4 @@
 In-class Lab 1
 Monday, 16 Feb was about Git Version Control systems
 today we trying git pull command
+Try pushing to repo
